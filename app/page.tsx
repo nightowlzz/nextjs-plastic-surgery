@@ -1,8 +1,3 @@
-
 export default function Main() {
-  return (
-    <div>
-    Main
-    </div>
-  );
+  return <div>메인</div>;
 }
